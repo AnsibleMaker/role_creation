@@ -1,0 +1,4 @@
+---
+# vars/main.yml
+apache_package: apache2
+apache_service: apache2
