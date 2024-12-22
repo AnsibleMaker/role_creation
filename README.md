@@ -1,7 +1,7 @@
 # Role: Apache  
 This repository contains a simple and functional Ansible role for setting up an Apache web server.  
 
----
+
 
 ## 📁 Role Structure  
 
@@ -23,3 +23,7 @@ apache/
 │   └── main.yml         # Role metadata and dependencies
 └── README.md            # Documentation for the role
 
+```
+![Output](.output.png)  
+
+---
