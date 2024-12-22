@@ -24,6 +24,6 @@ apache/
 └── README.md            # Documentation for the role
 
 ```
-![Output](.output.png)  
+![Output](output.png)  
 
 ---
